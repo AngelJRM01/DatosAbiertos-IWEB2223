@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AngelJRM01/BACKEND-IWEB2223/issues"
   },
-  "homepage": "https://github.com/AngelJRM01/BACKEND-IWEB2223#readme"
+  "homepage": "https://github.com/AngelJRM01/BACKEND-IWEB2223#readme",
+  "dependencies": {
+    "mongodb": "^4.10.0"
+  }
 }
