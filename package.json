@@ -1,0 +1,20 @@
+{
+  "name": "backend-iweb2223",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelJRM01/BACKEND-IWEB2223.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelJRM01/BACKEND-IWEB2223/issues"
+  },
+  "homepage": "https://github.com/AngelJRM01/BACKEND-IWEB2223#readme"
+}
