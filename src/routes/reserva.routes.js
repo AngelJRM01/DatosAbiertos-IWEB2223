@@ -1,24 +1,20 @@
-module.exports = app => {
+const express = require( 'express' );
+const reservas = require('../controllers/reserva.controller.js');
+const router = express.Router();
 
-    const reservas = require('../controllers/reserva.controller.js');
+// Create a new reserva
+router.post('/reservas', reservas.create);
 
-    var router = require('express').Router();
+//Retrieve all reservas
+router.get('/reservas', reservas.findAll);
 
-    // Create a new reserva
-    router.post('/', reservas.create);
+// Retrieve a single reserva with id
+router.get('/reservas/:id', reservas.findOne);
 
-    /*// Retrieve all reservas
-    router.get('/reservas', reservas.findAll);
+// Update a reserva with id
+router.put('/reservas/:id', reservas.update);
 
-    // Retrieve a single reserva with id
-    router.get('/reservas/:id', reservas.findOne);
+// Delete a reserva with id
+router.delete('/reservas/:id', reservas.delete);
 
-    // Update a reserva with id
-    router.put('/reservas/:id', reservas.update);
-
-    // Delete a reserva with id
-    router.delete('/reservas/:id', reservas.delete);
-
-    app.use('/api/reservas', router);*/
-
-};
+module.exports = router;
