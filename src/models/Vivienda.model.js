@@ -33,11 +33,11 @@ const ViviendaSchema = new Schema({
         required: true
     },
     fechasDisponibles: {
-        type: FechasDisponibles,
+        type: [FechasDisponibles],
         required: true
     },
     imagenes: {
-        type: String,
+        type: [String],
         required: true
     },
     precioNoche: {
