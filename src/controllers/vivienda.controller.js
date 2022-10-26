@@ -26,10 +26,15 @@ exports.create = (req, res) => {
 }
 
 exports.findAll = (req, res) => {
-    const titulo = req.query.titulo;
-    var condition = titulo ? {titulo: { $regex: new RegExp(titulo), $options: "i"} } : {};
+    var query = {};
 
-    Vivienda.find(condition)
+    const { direccion } = req.query;
+
+    if (direccion) {
+      query.direccion = { $regex: direccion, $options: 'i' };
+    }
+
+    Vivienda.find(query)
         .then(data => {
             res.send(data);
         })
