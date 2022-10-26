@@ -2,19 +2,22 @@ const express = require( 'express' );
 const viviendas = require('../controllers/vivienda.controller.js');
 const router = express.Router();
 
-// Create a new reserva
+// Create a new vivienda
 router.post('/', viviendas.create);
 
-//Retrieve all reservas
+//Retrieve all viviendas
 router.get('/', viviendas.findAll);
 
-// Retrieve a single reserva with id
+// Retrieve a single vivienda with id
 router.get('/:id', viviendas.findOne);
 
-// Update a reserva with id
+// Update a vivienda with id
 router.put('/:id', viviendas.update);
 
-// Delete a reserva with id
+// Delete a vivienda with id
 router.delete('/:id', viviendas.delete);
+
+// Retrieve all reservas from a vivienda
+router.get('/:id/reservas', viviendas.findReservas);
 
 module.exports = router;

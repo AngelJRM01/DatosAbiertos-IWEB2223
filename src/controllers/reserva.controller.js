@@ -3,7 +3,7 @@ const Reserva = require("../models/Reserva.model");
 // Create and Save a new Reserva
 exports.create = (req, res) => {
     // Validate request
-    if (!req.body.persona) {
+    if (!req.body) {
         res.status(400).send({ message: "Content can not be empty!" });
         return;
     }

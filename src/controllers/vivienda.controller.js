@@ -1,9 +1,10 @@
 const Vivienda = require("../models/Vivienda.model");
+const Reserva = require("../models/Reserva.model");
 
 // Create and Save a new Vivienda
 exports.create = (req, res) => {
     // Validate request
-    if (!req.body.titulo) {
+    if (!req.body) {
         res.status(400).send({ message: "Content can not be empty!" });
         return;
     }
@@ -47,7 +48,7 @@ exports.findAll = (req, res) => {
 }
 
 exports.findOne = (req, res) => {
-    const id = req.query.id;
+    const id = req.params.id;
 
     Vivienda.findById(id)
         .then(data => {
@@ -103,5 +104,20 @@ exports.delete = (req, res) => {
         res.status(500).send({
           message: "Could not delete Vivienda with id=" + id
         });
+      });
+}
+
+exports.findReservas = (req, res) => {
+  const { id } = req.params;
+  var query = {"vivienda._id": id};
+
+  Reserva.find(query)
+      .then(data => {
+          if(!data)
+              res.status(404).send({message: "Not found Reservas with vivienda._id " + id});
+          else res.send(data);
+      })
+      .catch(err => {
+          res.status(500).send({ message: "Error retrieving Reservas with vivienda._id " + id });
       });
 }
