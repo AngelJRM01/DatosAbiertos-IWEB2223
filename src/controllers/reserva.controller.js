@@ -9,19 +9,13 @@ exports.create = (req, res) => {
     }
     
     // Create a Reserva
-    const reserva = new Reserva({
-        fecha: req.body.fecha,
-        estancia: req.body.estancia,
-        persona: req.body.persona,
-        numeroPersonas: req.body.numeroPersonas,
-        vivienda: req.body.vivienda
-    });
+    const reserva = new Reserva(req.body);
     
     // Save Reserva in the database
     reserva
         .save(reserva)
         .then(data => {
-            res.send(data);
+            res.json(data);
         })
         .catch(err => {
             res.status(500).send({
@@ -30,6 +24,57 @@ exports.create = (req, res) => {
             });
         });
 }
+
+exports.findAll = (req, res) => {
+    Reserva.find()
+        .then(data => {
+            res.json(data);
+        })
+        .catch(err => {
+            res.status(500).send({
+                message: err.message || "Some error occurred while retrieving Reservas."
+            });
+        });
+}
+
+exports.findOne = (req, res) => {
+    const id = req.params.id;
+
+    Reserva.findById(id)
+        .then(data => {
+            if (!data)
+                res.status(404).send({ message: "Not found Reserva with id " + id });
+            else res.json(data);
+        })
+        .catch(err => {
+            res.status(500).send({ message: "Error retrieving Reserva with id=" + id });
+        });
+}
+
+exports.update = (req, res) => {
+    if (!req.body) {
+        return res.status(400).send({
+            message: "Data to update can not be empty!"
+        });
+    }
+
+    const id = req.params.id;
+
+    Reserva.findByIdAndUpdate(id, req.body, { useFindAndModify: false })
+        .then(data => {
+            if (!data) {
+                res.status(404).send({
+                    message: `Cannot update Reserva with id=${id}. Maybe Reserva was not found!`
+                });
+            } else res.json({ message: "Reserva was updated successfully." });
+        })
+        .catch(err => {
+            res.status(500).send({
+                message: "Error updating Reserva with id=" + id
+            });
+        });
+}
+
 
 exports.delete = (req, res) => {
     const id = req.params.id;

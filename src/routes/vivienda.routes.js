@@ -1,24 +1,20 @@
-module.exports = app => {
+const express = require( 'express' );
+const viviendas = require('../controllers/vivienda.controller.js');
+const router = express.Router();
 
-    const viviendas = require('../controllers/vivienda.controller.js');
+// Create a new reserva
+router.post('/viviendas', viviendas.create);
 
-    var router = require('express').Router();
+//Retrieve all reservas
+router.get('/viviendas', viviendas.findAll);
 
-    // Create a new vivienda
-    router.post('/viviendas', viviendas.create);
+// Retrieve a single reserva with id
+router.get('/viviendas/:id', viviendas.findOne);
 
-    // Retrieve all viviendas
-    router.get('/viviendas', viviendas.findAll);
+// Update a reserva with id
+router.put('/viviendas/:id', viviendas.update);
 
-    /*// Retrieve a single vivienda with id
-    router.get('/viviendas/:id', viviendas.findOne);
+// Delete a reserva with id
+router.delete('/viviendas/:id', viviendas.delete);
 
-    // Update a vivienda with id
-    router.put('/viviendas/:id', viviendas.update);
-
-    // Delete a vivienda with id
-    router.delete('/viviendas/:id', viviendas.delete);
-
-    app.use('/api/viviendas', router);*/
-
-};
+module.exports = router;
