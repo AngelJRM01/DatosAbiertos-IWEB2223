@@ -121,3 +121,34 @@ exports.findReservas = (req, res) => {
           res.status(500).send({ message: "Error retrieving Reservas with vivienda._id " + id });
       });
 }
+
+// Galo
+exports.findUnderPrice = (req, res) => {
+  const { precio } = req.params;
+  var query = {"precioNoche": {$lt: precio}};
+
+  Vivienda.find(query)
+      .then(data => {
+          if(!data)
+              res.status(404).send({message: "Not found Viviendas under " + precio});
+          else res.send(data);
+      })
+      .catch(err => {
+          res.status(500).send({ message: "Error retrieving Viviendas under " + precio });
+      });
+}
+
+exports.findGuests = (req, res) => {
+  const { id } = req.params;
+  var query = {"vivienda._id.persona": id};
+
+  Reserva.find(query)
+      .then(data => {
+          if(!data)
+              res.status(404).send({message: "Not found Guests with vivienda._id " + id});
+          else res.send(data);
+      })
+      .catch(err => {
+          res.status(500).send({ message: "Error retrieving Guests with vivienda._id " + id });
+      });
+}
