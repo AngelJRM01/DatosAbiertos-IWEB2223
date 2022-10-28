@@ -20,4 +20,13 @@ router.delete('/:id', viviendas.delete);
 // Retrieve all reservas from a vivienda
 router.get('/:id/reservas', viviendas.findReservas);
 
+// Retrieve all viviendas under a price. Galo
+router.get('/precio/:precio', viviendas.findUnderPrice);
+
+// Retrieve all gests from a vivienda
+router.get('/:id/huespedes', viviendas.findGuests);
+
+// Retrieve all viviendas over a price
+router.get('/valoracion/:valoracion', viviendas.findOverRating);
+
 module.exports = router;
