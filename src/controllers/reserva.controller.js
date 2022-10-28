@@ -133,3 +133,17 @@ exports.findByDate = (req, res) => {
             res.status(500).send({ message: "Error retrieving Reserva with fecha after " + fecha});
         });
   }
+
+  exports.findVivienda = (req, res) => {
+    const { id } = req.params;
+
+    Reserva.findById(id)
+        .then(data => {
+            if (!data)
+                res.status(404).send({ message: "Not found Reserva with id " + id });
+            else res.json(data.vivienda);
+        })
+        .catch(err => {
+            res.status(500).send({ message: "Error retrieving Reserva with id=" + id });
+        });
+  }

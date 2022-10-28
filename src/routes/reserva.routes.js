@@ -24,4 +24,7 @@ router.delete('/:id', reservas.delete);
 router.get('/fecha/:fecha', reservas.findByDate);
 //http://localhost:4000/reservas/fecha/2001-12-31T23:00:00.000Z
 
+// Retrieve vivienda of a reserva
+router.get('/:id/vivienda', reservas.findVivienda);
+
 module.exports = router;
