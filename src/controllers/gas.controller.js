@@ -48,29 +48,47 @@ exports.findCheaperInLocalidad = (req, res) => {
 
 
     res.json(gas);
+
+    /*const localidad = req.params.localidad;
+
+    const tipoGasolina = "Precio " + req.params.tipoGasolina;
+
+    var gas = Gas.ListaEESSPrecio.filter( g => g.Localidad == localidad);
+    
+    gas = gas.filter(g => g[tipoGasolina] == Math.min(gas[tipoGasolina])).map(g => {
+        return {
+            "Dirección": g.Dirección,
+            "Rótulo": g.Rótulo,
+            tipoGasolina : g[tipoGasolina]
+            };
+    });
+
+
+    res.json(gas);*/
 }
 
 exports.findCoordinates = (req, res) => {
 
-    const latitud = parseFloat(req.params.latitud);
-    const longitud = parseFloat(req.params.longitud);
-    const gradoAproximacion = parseFloat(req.params.gradoAproximacion);
+    const latitud = Number(req.params.latitud);
+    const longitud = Number(req.params.longitud);
+    const gradoAproximacion = Number(req.params.gradoAproximacion);
     console.log(latitud)
-    console.log(longitud)
-    console.log(gradoAproximacion)
-    console.log(latitud+gradoAproximacion)
-    console.log(latitud-gradoAproximacion)
-    console.log(latitud+gradoAproximacion >= latitud)
-    console.log(latitud-gradoAproximacion <= latitud)
 
-    const gas = Gas.ListaEESSPrecio.filter( g => (
-        parseFloat(g.latitud)+gradoAproximacion >= latitud && 
-        parseFloat(g.latitud)-gradoAproximacion <= latitud  )
-        ).map(g => {
-            return {
+    const gas = Gas.ListaEESSPrecio.filter( g => {
+            const latitudGas = g["Latitud"].replace(',', '.');
+            const longitudGas = g["Longitud (WGS84)"].replace(',', '.');
+            return (
+                Number(latitudGas) + gradoAproximacion >= latitud &&
+                Number(latitudGas) - gradoAproximacion <= latitud &&
+                Number(longitudGas) + gradoAproximacion >= longitud && 
+                Number(longitudGas) - gradoAproximacion <= longitud)
+        }).map(g => {
+            return {    
                 "Dirección": g.Dirección,
                 "Rótulo": g.Rótulo,
-                "Precio Gasolina 95 E5" : g["Precio Gasolina 95 E5"]
+                "Precio Gasolina 95 E5" : g["Precio Gasolina 95 E5"],
+                "Latitud": g.Latitud,
+                "Longitud": g["Longitud (WGS84)"]
                 };
         })
     
