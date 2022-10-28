@@ -55,7 +55,7 @@ exports.findByAntique = (req, res) => {
     const fecha = req.params.fecha;
 
     var query = {
-        "fecha" : fecha
+        "fecha" : {$lte : fecha}
     };
 
     Reserva.find(query)
@@ -119,7 +119,7 @@ exports.delete = (req, res) => {
 }
 
 //Angel FC
-exports.findByDate = (req, res) => {
+exports.findByFutureDate = (req, res) => {
     const fecha = req.params.fecha;
     var query = {"fecha": {$gt:fecha}};
   
