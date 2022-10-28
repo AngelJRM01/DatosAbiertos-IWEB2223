@@ -162,7 +162,7 @@ exports.findGuests = (req, res) => {
       .then(data => {
           if(!data)
               res.status(404).send({message: "Not found Guests with vivienda._id " + id});
-          else res.send(data.Persona);
+          else res.send(data.map((reserva) => reserva.persona));
       })
       .catch(err => {
           res.status(500).send({ message: "Error retrieving Guests with vivienda._id " + id });
