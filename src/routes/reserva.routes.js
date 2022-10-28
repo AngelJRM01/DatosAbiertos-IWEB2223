@@ -11,6 +11,8 @@ router.get('/', reservas.findAll);
 // Retrieve a single reserva with id
 router.get('/:id', reservas.findOne);
 
+router.get('/antiguedad/:fecha', reservas.findByAntique);
+
 // Update a reserva with id
 router.put('/:id', reservas.update);
 
