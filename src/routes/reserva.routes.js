@@ -11,6 +11,7 @@ router.get('/', reservas.findAll);
 // Retrieve a single reserva with id
 router.get('/:id', reservas.findOne);
 
+//Retrieve all reservas with antique
 router.get('/antiguedad/:fecha', reservas.findByAntique);
 
 // Update a reserva with id
@@ -18,5 +19,8 @@ router.put('/:id', reservas.update);
 
 // Delete a reserva with id
 router.delete('/:id', reservas.delete);
+
+// Retrieve all reservas after a date. Angel FC
+router.get('/fecha/:fecha', reservas.findByDate);
 
 module.exports = router;

@@ -122,6 +122,22 @@ exports.findReservas = (req, res) => {
       });
 }
 
+//Angel FC
+exports.findByEstado = (req, res) => {
+  const estado = req.params.estado;
+  var query = {"estado": estado};
+
+  Vivienda.find(query)
+      .then(data => {
+          if(!data)
+              res.status(404).send({message: "Not found Vivienda with estado " + estado});
+          else res.send(data);
+      })
+      .catch(err => {
+          res.status(500).send({ message: "Error retrieving Vivienda with estado " + estado });
+      });
+}
+
 // Galo
 exports.findUnderPrice = (req, res) => {
   const { precio } = req.params;
