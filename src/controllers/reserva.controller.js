@@ -55,7 +55,7 @@ exports.findByAntique = (req, res) => {
     const fecha = req.params.fecha;
 
     var query = {
-        "fecha" : fecha
+        "fecha" : {$lte : fecha}
     };
 
     Reserva.find(query)
@@ -119,7 +119,7 @@ exports.delete = (req, res) => {
 }
 
 //Angel FC
-exports.findByDate = (req, res) => {
+exports.findByFutureDate = (req, res) => {
     const fecha = req.params.fecha;
     var query = {"fecha": {$gt:fecha}};
   
@@ -131,5 +131,19 @@ exports.findByDate = (req, res) => {
         })
         .catch(err => {
             res.status(500).send({ message: "Error retrieving Reserva with fecha after " + fecha});
+        });
+  }
+
+  exports.findVivienda = (req, res) => {
+    const { id } = req.params;
+
+    Reserva.findById(id)
+        .then(data => {
+            if (!data)
+                res.status(404).send({ message: "Not found Reserva with id " + id });
+            else res.json(data.vivienda);
+        })
+        .catch(err => {
+            res.status(500).send({ message: "Error retrieving Reserva with id=" + id });
         });
   }
