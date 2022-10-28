@@ -141,7 +141,7 @@ exports.findByEstado = (req, res) => {
 // Galo
 exports.findUnderPrice = (req, res) => {
   const { precio } = req.params;
-  var query = {"precioNoche": {$lt: precio}};
+  var query = {"precioNoche": {$lte: precio}};
 
   Vivienda.find(query)
       .then(data => {
