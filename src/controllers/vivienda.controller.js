@@ -152,3 +152,18 @@ exports.findGuests = (req, res) => {
           res.status(500).send({ message: "Error retrieving Guests with vivienda._id " + id });
       });
 }
+
+exports.findOverRating = (req, res) => {
+  const { valoracion } = req.params;
+  var query = {"valoracion": {$gt: valoracion}};
+
+  Vivienda.find(query)
+      .then(data => {
+        if(!data)
+            res.status(404).send({message: "Not found Viviendas over " + valoracion + " of rating"});
+        else res.send(data);
+      })
+      .catch(err => {
+            res.status(500).send({ message: "Error retrieving Viviendas over " + valoracion + "of rating"});
+      });
+}

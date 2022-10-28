@@ -26,4 +26,7 @@ router.get('/precio/:precio', viviendas.findUnderPrice);
 // Retrieve all gests from a vivienda
 router.get('/:id/huespedes', viviendas.findGuests);
 
+// Retrieve all viviendas over a price
+router.get('/valoracion/:valoracion', viviendas.findOverRating);
+
 module.exports = router;
