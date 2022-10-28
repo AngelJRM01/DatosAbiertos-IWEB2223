@@ -8,8 +8,11 @@ router.get('/', gas.findAll);
 // Retrieve all gas by localidad
 router.get('/:localidad', gas.findByLocalidad);
 
+// Retrieve the most cheappest gas
+router.get('/:tipoGasolina/:localidad', gas.findCheaperInLocalidad);
+
 // Retrieve 3 cheaper gas by longitud and latitud
-router.get('/:longitud/:latitud', gas.findCheaper);
+router.get('/:latitud/:longitud/:gradoAproximacion', gas.findCoordinates);
 
 
 module.exports = router;
