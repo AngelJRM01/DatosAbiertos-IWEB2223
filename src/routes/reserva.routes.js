@@ -22,5 +22,6 @@ router.delete('/:id', reservas.delete);
 
 // Retrieve all reservas after a date. Angel FC
 router.get('/fecha/:fecha', reservas.findByDate);
+//http://localhost:4000/reservas/fecha/2001-12-31T23:00:00.000Z
 
 module.exports = router;

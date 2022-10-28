@@ -121,7 +121,7 @@ exports.delete = (req, res) => {
 //Angel FC
 exports.findByDate = (req, res) => {
     const fecha = req.params.fecha;
-    var query = {"reserva.fecha": {$gt:fecha}};
+    var query = {"fecha": {$gt:fecha}};
   
     Reserva.find(query)
         .then(data => {
