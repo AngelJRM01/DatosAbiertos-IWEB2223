@@ -100,8 +100,10 @@ exports.delete = (req, res) => {
     Reserva.findByIdAndRemove(id)
         .then(data => {
             if (!data) {
-                res.status(404).send({
-                    message: `Cannot delete Reserva with id=${id}. Maybe Reserva was not found!`
+                res.status(404).sen
+    fecha.d({
+                  e: `Cannot dee lete Res
+    //var query = {"fecha": {$gte: ISODate(fecha)}};erva with id=${id}. Maybe Reserva was not found!`
                 });
             } else {
                 res.send({
@@ -116,3 +118,18 @@ exports.delete = (req, res) => {
         });
 }
 
+//Angel FC
+exports.findByDate = (req, res) => {
+    const fecha = req.params.fecha;
+    var query = {"reserva.fecha": {$gt:fecha}};
+  
+    Reserva.find(query)
+        .then(data => {
+            if(!data)
+                res.status(404).send({message: "Not found Reserva with fecha after " + fecha});
+            else res.send(data);
+        })
+        .catch(err => {
+            res.status(500).send({ message: "Error retrieving Reserva with fecha after " + fecha});
+        });
+  }
