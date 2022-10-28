@@ -9,7 +9,7 @@ router.get('/', gas.findAll);
 router.get('/:localidad', gas.findByLocalidad);
 
 // Retrieve 3 cheaper gas by longitud and latitud
-router.get('/:longitud/:latitud', gas.findCheaper);
+router.get('/:tipoGasolina/:localidad', gas.findCheaperInLocalidad);
 
 
 module.exports = router;

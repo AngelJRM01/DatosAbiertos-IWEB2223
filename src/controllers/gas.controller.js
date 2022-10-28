@@ -24,10 +24,23 @@ exports.findByLocalidad = (req, res) => {
 exports.findCheaperInLocalidad = (req, res) => {
     
         const localidad = req.params.localidad;
-        const gas = Gas.ListaEESSPrecio.filter( g => g.Localidad == localidad).( g => {
+
+        const tipoGasolina = "Precio " + req.params.tipoGasolina;
+
+        var gas = Gas.ListaEESSPrecio.filter( g => g.Localidad == localidad);
+
+        var min = gas[0][tipoGasolina];
+
+        gas.forEach(g => {
+            if(min > g[tipoGasolina] && g[tipoGasolina] != ""){
+                min = g[tipoGasolina];
+            }
+        });
+
+        gas = gas.filter(g => g[tipoGasolina] == min).map(g => {
             return {
                 "Rótulo": g.Rótulo,
-                "Precio Gasolina 95 E5" : g["Precio Gasolina 95 E5"]
+                tipoGasolina : g[tipoGasolina]
                 };
         });
 
