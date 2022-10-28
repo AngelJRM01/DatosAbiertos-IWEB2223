@@ -6,8 +6,8 @@ const FechasDisponibles = {
 }
 
 const Propietario = {
-    id : String,
-    nombre : String
+    nombre : String,
+    foto : String
 }
 
 const Coordenadas = {
