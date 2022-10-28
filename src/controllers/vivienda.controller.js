@@ -156,13 +156,13 @@ exports.findUnderPrice = (req, res) => {
 
 exports.findGuests = (req, res) => {
   const { id } = req.params;
-  var query = {"vivienda._id.persona": id};
+  var query = {"vivienda._id": id};
 
   Reserva.find(query)
       .then(data => {
           if(!data)
               res.status(404).send({message: "Not found Guests with vivienda._id " + id});
-          else res.send(data);
+          else res.send(data.Persona);
       })
       .catch(err => {
           res.status(500).send({ message: "Error retrieving Guests with vivienda._id " + id });
