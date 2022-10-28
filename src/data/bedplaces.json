@@ -1,0 +1,7022 @@
+[
+    {
+        "Nombre": "Total, Total",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 349,
+                    "Nombre": "Total Nacional",
+                    "Codigo": "NAC"
+                },
+                "Nombre": "Total",
+                "Codigo": "00"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Total",
+                "Codigo": "total"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 23.16
+            }
+        ]
+    },
+    {
+        "Nombre": "Total, Enero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 349,
+                    "Nombre": "Total Nacional",
+                    "Codigo": "NAC"
+                },
+                "Nombre": "Total",
+                "Codigo": "00"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Enero",
+                "Codigo": "enero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 32.56
+            }
+        ]
+    },
+    {
+        "Nombre": "Total, Febrero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 349,
+                    "Nombre": "Total Nacional",
+                    "Codigo": "NAC"
+                },
+                "Nombre": "Total",
+                "Codigo": "00"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Febrero",
+                "Codigo": "febrero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 35.29
+            }
+        ]
+    },
+    {
+        "Nombre": "Total, Marzo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 349,
+                    "Nombre": "Total Nacional",
+                    "Codigo": "NAC"
+                },
+                "Nombre": "Total",
+                "Codigo": "00"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Marzo",
+                "Codigo": "marzo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 22.13
+            }
+        ]
+    },
+    {
+        "Nombre": "Total, Abril",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 349,
+                    "Nombre": "Total Nacional",
+                    "Codigo": "NAC"
+                },
+                "Nombre": "Total",
+                "Codigo": "00"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Abril",
+                "Codigo": "abril"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Total, Mayo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 349,
+                    "Nombre": "Total Nacional",
+                    "Codigo": "NAC"
+                },
+                "Nombre": "Total",
+                "Codigo": "00"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Mayo",
+                "Codigo": "mayo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 6.29
+            }
+        ]
+    },
+    {
+        "Nombre": "Total, Junio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 349,
+                    "Nombre": "Total Nacional",
+                    "Codigo": "NAC"
+                },
+                "Nombre": "Total",
+                "Codigo": "00"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Junio",
+                "Codigo": "junio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 9.41
+            }
+        ]
+    },
+    {
+        "Nombre": "Total, Julio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 349,
+                    "Nombre": "Total Nacional",
+                    "Codigo": "NAC"
+                },
+                "Nombre": "Total",
+                "Codigo": "00"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Julio",
+                "Codigo": "julio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 26.07
+            }
+        ]
+    },
+    {
+        "Nombre": "Total, Agosto",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 349,
+                    "Nombre": "Total Nacional",
+                    "Codigo": "NAC"
+                },
+                "Nombre": "Total",
+                "Codigo": "00"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Agosto",
+                "Codigo": "agosto"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 35.87
+            }
+        ]
+    },
+    {
+        "Nombre": "Total, Septiembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 349,
+                    "Nombre": "Total Nacional",
+                    "Codigo": "NAC"
+                },
+                "Nombre": "Total",
+                "Codigo": "00"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Septiembre",
+                "Codigo": "septiembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 18.71
+            }
+        ]
+    },
+    {
+        "Nombre": "Total, Octubre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 349,
+                    "Nombre": "Total Nacional",
+                    "Codigo": "NAC"
+                },
+                "Nombre": "Total",
+                "Codigo": "00"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Octubre",
+                "Codigo": "octubre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 13.44
+            }
+        ]
+    },
+    {
+        "Nombre": "Total, Noviembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 349,
+                    "Nombre": "Total Nacional",
+                    "Codigo": "NAC"
+                },
+                "Nombre": "Total",
+                "Codigo": "00"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Noviembre",
+                "Codigo": "noviembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 9.99
+            }
+        ]
+    },
+    {
+        "Nombre": "Total, Diciembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 349,
+                    "Nombre": "Total Nacional",
+                    "Codigo": "NAC"
+                },
+                "Nombre": "Total",
+                "Codigo": "00"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Diciembre",
+                "Codigo": "diciembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 11.52
+            }
+        ]
+    },
+    {
+        "Nombre": "Andalucía, Total",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Andalucía",
+                "Codigo": "01"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Total",
+                "Codigo": "total"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 23.45
+            }
+        ]
+    },
+    {
+        "Nombre": "Andalucía, Enero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Andalucía",
+                "Codigo": "01"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Enero",
+                "Codigo": "enero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 26.17
+            }
+        ]
+    },
+    {
+        "Nombre": "Andalucía, Febrero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Andalucía",
+                "Codigo": "01"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Febrero",
+                "Codigo": "febrero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 33.23
+            }
+        ]
+    },
+    {
+        "Nombre": "Andalucía, Marzo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Andalucía",
+                "Codigo": "01"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Marzo",
+                "Codigo": "marzo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 19.05
+            }
+        ]
+    },
+    {
+        "Nombre": "Andalucía, Abril",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Andalucía",
+                "Codigo": "01"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Abril",
+                "Codigo": "abril"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Andalucía, Mayo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Andalucía",
+                "Codigo": "01"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Mayo",
+                "Codigo": "mayo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 7.7
+            }
+        ]
+    },
+    {
+        "Nombre": "Andalucía, Junio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Andalucía",
+                "Codigo": "01"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Junio",
+                "Codigo": "junio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 14.25
+            }
+        ]
+    },
+    {
+        "Nombre": "Andalucía, Julio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Andalucía",
+                "Codigo": "01"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Julio",
+                "Codigo": "julio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 29.55
+            }
+        ]
+    },
+    {
+        "Nombre": "Andalucía, Agosto",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Andalucía",
+                "Codigo": "01"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Agosto",
+                "Codigo": "agosto"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 40.99
+            }
+        ]
+    },
+    {
+        "Nombre": "Andalucía, Septiembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Andalucía",
+                "Codigo": "01"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Septiembre",
+                "Codigo": "septiembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 22.88
+            }
+        ]
+    },
+    {
+        "Nombre": "Andalucía, Octubre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Andalucía",
+                "Codigo": "01"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Octubre",
+                "Codigo": "octubre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 14.87
+            }
+        ]
+    },
+    {
+        "Nombre": "Andalucía, Noviembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Andalucía",
+                "Codigo": "01"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Noviembre",
+                "Codigo": "noviembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 5.15
+            }
+        ]
+    },
+    {
+        "Nombre": "Andalucía, Diciembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Andalucía",
+                "Codigo": "01"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Diciembre",
+                "Codigo": "diciembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 7.47
+            }
+        ]
+    },
+    {
+        "Nombre": "Aragón, Total",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Aragón",
+                "Codigo": "02"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Total",
+                "Codigo": "total"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 26.67
+            }
+        ]
+    },
+    {
+        "Nombre": "Aragón, Enero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Aragón",
+                "Codigo": "02"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Enero",
+                "Codigo": "enero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 29.32
+            }
+        ]
+    },
+    {
+        "Nombre": "Aragón, Febrero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Aragón",
+                "Codigo": "02"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Febrero",
+                "Codigo": "febrero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 38.08
+            }
+        ]
+    },
+    {
+        "Nombre": "Aragón, Marzo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Aragón",
+                "Codigo": "02"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Marzo",
+                "Codigo": "marzo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 22.15
+            }
+        ]
+    },
+    {
+        "Nombre": "Aragón, Abril",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Aragón",
+                "Codigo": "02"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Abril",
+                "Codigo": "abril"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Aragón, Mayo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Aragón",
+                "Codigo": "02"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Mayo",
+                "Codigo": "mayo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 17.58
+            }
+        ]
+    },
+    {
+        "Nombre": "Aragón, Junio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Aragón",
+                "Codigo": "02"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Junio",
+                "Codigo": "junio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 17.84
+            }
+        ]
+    },
+    {
+        "Nombre": "Aragón, Julio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Aragón",
+                "Codigo": "02"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Julio",
+                "Codigo": "julio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 34.98
+            }
+        ]
+    },
+    {
+        "Nombre": "Aragón, Agosto",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Aragón",
+                "Codigo": "02"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Agosto",
+                "Codigo": "agosto"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 39.15
+            }
+        ]
+    },
+    {
+        "Nombre": "Aragón, Septiembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Aragón",
+                "Codigo": "02"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Septiembre",
+                "Codigo": "septiembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 28.41
+            }
+        ]
+    },
+    {
+        "Nombre": "Aragón, Octubre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Aragón",
+                "Codigo": "02"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Octubre",
+                "Codigo": "octubre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 30.91
+            }
+        ]
+    },
+    {
+        "Nombre": "Aragón, Noviembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Aragón",
+                "Codigo": "02"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Noviembre",
+                "Codigo": "noviembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 3.83
+            }
+        ]
+    },
+    {
+        "Nombre": "Aragón, Diciembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Aragón",
+                "Codigo": "02"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Diciembre",
+                "Codigo": "diciembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 4.99
+            }
+        ]
+    },
+    {
+        "Nombre": "Asturias, Principado de, Total",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Asturias, Principado de",
+                "Codigo": "03"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Total",
+                "Codigo": "total"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 23.38
+            }
+        ]
+    },
+    {
+        "Nombre": "Asturias, Principado de, Enero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Asturias, Principado de",
+                "Codigo": "03"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Enero",
+                "Codigo": "enero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 11.69
+            }
+        ]
+    },
+    {
+        "Nombre": "Asturias, Principado de, Febrero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Asturias, Principado de",
+                "Codigo": "03"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Febrero",
+                "Codigo": "febrero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 13.06
+            }
+        ]
+    },
+    {
+        "Nombre": "Asturias, Principado de, Marzo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Asturias, Principado de",
+                "Codigo": "03"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Marzo",
+                "Codigo": "marzo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 5.4
+            }
+        ]
+    },
+    {
+        "Nombre": "Asturias, Principado de, Abril",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Asturias, Principado de",
+                "Codigo": "03"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Abril",
+                "Codigo": "abril"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Asturias, Principado de, Mayo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Asturias, Principado de",
+                "Codigo": "03"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Mayo",
+                "Codigo": "mayo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 7.06
+            }
+        ]
+    },
+    {
+        "Nombre": "Asturias, Principado de, Junio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Asturias, Principado de",
+                "Codigo": "03"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Junio",
+                "Codigo": "junio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 9.76
+            }
+        ]
+    },
+    {
+        "Nombre": "Asturias, Principado de, Julio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Asturias, Principado de",
+                "Codigo": "03"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Julio",
+                "Codigo": "julio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 39.97
+            }
+        ]
+    },
+    {
+        "Nombre": "Asturias, Principado de, Agosto",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Asturias, Principado de",
+                "Codigo": "03"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Agosto",
+                "Codigo": "agosto"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 57.29
+            }
+        ]
+    },
+    {
+        "Nombre": "Asturias, Principado de, Septiembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Asturias, Principado de",
+                "Codigo": "03"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Septiembre",
+                "Codigo": "septiembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 22.89
+            }
+        ]
+    },
+    {
+        "Nombre": "Asturias, Principado de, Octubre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Asturias, Principado de",
+                "Codigo": "03"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Octubre",
+                "Codigo": "octubre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 10.37
+            }
+        ]
+    },
+    {
+        "Nombre": "Asturias, Principado de, Noviembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Asturias, Principado de",
+                "Codigo": "03"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Noviembre",
+                "Codigo": "noviembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 4.87
+            }
+        ]
+    },
+    {
+        "Nombre": "Asturias, Principado de, Diciembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Asturias, Principado de",
+                "Codigo": "03"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Diciembre",
+                "Codigo": "diciembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 10.82
+            }
+        ]
+    },
+    {
+        "Nombre": "Balears, Illes, Total",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Balears, Illes",
+                "Codigo": "04"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Total",
+                "Codigo": "total"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 26.89
+            }
+        ]
+    },
+    {
+        "Nombre": "Balears, Illes, Enero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Balears, Illes",
+                "Codigo": "04"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Enero",
+                "Codigo": "enero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 21.9
+            }
+        ]
+    },
+    {
+        "Nombre": "Balears, Illes, Febrero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Balears, Illes",
+                "Codigo": "04"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Febrero",
+                "Codigo": "febrero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 28.56
+            }
+        ]
+    },
+    {
+        "Nombre": "Balears, Illes, Marzo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Balears, Illes",
+                "Codigo": "04"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Marzo",
+                "Codigo": "marzo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 43.83
+            }
+        ]
+    },
+    {
+        "Nombre": "Balears, Illes, Abril",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Balears, Illes",
+                "Codigo": "04"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Abril",
+                "Codigo": "abril"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Balears, Illes, Mayo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Balears, Illes",
+                "Codigo": "04"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Mayo",
+                "Codigo": "mayo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 6.1
+            }
+        ]
+    },
+    {
+        "Nombre": "Balears, Illes, Junio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Balears, Illes",
+                "Codigo": "04"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Junio",
+                "Codigo": "junio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 11.86
+            }
+        ]
+    },
+    {
+        "Nombre": "Balears, Illes, Julio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Balears, Illes",
+                "Codigo": "04"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Julio",
+                "Codigo": "julio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 29.77
+            }
+        ]
+    },
+    {
+        "Nombre": "Balears, Illes, Agosto",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Balears, Illes",
+                "Codigo": "04"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Agosto",
+                "Codigo": "agosto"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 35.36
+            }
+        ]
+    },
+    {
+        "Nombre": "Balears, Illes, Septiembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Balears, Illes",
+                "Codigo": "04"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Septiembre",
+                "Codigo": "septiembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 22.71
+            }
+        ]
+    },
+    {
+        "Nombre": "Balears, Illes, Octubre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Balears, Illes",
+                "Codigo": "04"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Octubre",
+                "Codigo": "octubre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 13.54
+            }
+        ]
+    },
+    {
+        "Nombre": "Balears, Illes, Noviembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Balears, Illes",
+                "Codigo": "04"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Noviembre",
+                "Codigo": "noviembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 9.88
+            }
+        ]
+    },
+    {
+        "Nombre": "Balears, Illes, Diciembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Balears, Illes",
+                "Codigo": "04"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Diciembre",
+                "Codigo": "diciembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 16.52
+            }
+        ]
+    },
+    {
+        "Nombre": "Canarias, Total",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Canarias",
+                "Codigo": "05"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Total",
+                "Codigo": "total"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 32.98
+            }
+        ]
+    },
+    {
+        "Nombre": "Canarias, Enero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Canarias",
+                "Codigo": "05"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Enero",
+                "Codigo": "enero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 54.62
+            }
+        ]
+    },
+    {
+        "Nombre": "Canarias, Febrero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Canarias",
+                "Codigo": "05"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Febrero",
+                "Codigo": "febrero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 54.37
+            }
+        ]
+    },
+    {
+        "Nombre": "Canarias, Marzo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Canarias",
+                "Codigo": "05"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Marzo",
+                "Codigo": "marzo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 29.49
+            }
+        ]
+    },
+    {
+        "Nombre": "Canarias, Abril",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Canarias",
+                "Codigo": "05"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Abril",
+                "Codigo": "abril"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Canarias, Mayo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Canarias",
+                "Codigo": "05"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Mayo",
+                "Codigo": "mayo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 5.1
+            }
+        ]
+    },
+    {
+        "Nombre": "Canarias, Junio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Canarias",
+                "Codigo": "05"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Junio",
+                "Codigo": "junio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 11.97
+            }
+        ]
+    },
+    {
+        "Nombre": "Canarias, Julio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Canarias",
+                "Codigo": "05"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Julio",
+                "Codigo": "julio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 27.56
+            }
+        ]
+    },
+    {
+        "Nombre": "Canarias, Agosto",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Canarias",
+                "Codigo": "05"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Agosto",
+                "Codigo": "agosto"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 30.82
+            }
+        ]
+    },
+    {
+        "Nombre": "Canarias, Septiembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Canarias",
+                "Codigo": "05"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Septiembre",
+                "Codigo": "septiembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 20.32
+            }
+        ]
+    },
+    {
+        "Nombre": "Canarias, Octubre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Canarias",
+                "Codigo": "05"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Octubre",
+                "Codigo": "octubre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 15.25
+            }
+        ]
+    },
+    {
+        "Nombre": "Canarias, Noviembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Canarias",
+                "Codigo": "05"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Noviembre",
+                "Codigo": "noviembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 15.9
+            }
+        ]
+    },
+    {
+        "Nombre": "Canarias, Diciembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Canarias",
+                "Codigo": "05"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Diciembre",
+                "Codigo": "diciembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 18.14
+            }
+        ]
+    },
+    {
+        "Nombre": "Cantabria, Total",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Cantabria",
+                "Codigo": "06"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Total",
+                "Codigo": "total"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 33.26
+            }
+        ]
+    },
+    {
+        "Nombre": "Cantabria, Enero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Cantabria",
+                "Codigo": "06"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Enero",
+                "Codigo": "enero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 20.48
+            }
+        ]
+    },
+    {
+        "Nombre": "Cantabria, Febrero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Cantabria",
+                "Codigo": "06"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Febrero",
+                "Codigo": "febrero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 24.41
+            }
+        ]
+    },
+    {
+        "Nombre": "Cantabria, Marzo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Cantabria",
+                "Codigo": "06"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Marzo",
+                "Codigo": "marzo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 11.91
+            }
+        ]
+    },
+    {
+        "Nombre": "Cantabria, Abril",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Cantabria",
+                "Codigo": "06"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Abril",
+                "Codigo": "abril"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Cantabria, Mayo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Cantabria",
+                "Codigo": "06"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Mayo",
+                "Codigo": "mayo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 13.41
+            }
+        ]
+    },
+    {
+        "Nombre": "Cantabria, Junio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Cantabria",
+                "Codigo": "06"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Junio",
+                "Codigo": "junio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 10.5
+            }
+        ]
+    },
+    {
+        "Nombre": "Cantabria, Julio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Cantabria",
+                "Codigo": "06"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Julio",
+                "Codigo": "julio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 53.7
+            }
+        ]
+    },
+    {
+        "Nombre": "Cantabria, Agosto",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Cantabria",
+                "Codigo": "06"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Agosto",
+                "Codigo": "agosto"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 67.06
+            }
+        ]
+    },
+    {
+        "Nombre": "Cantabria, Septiembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Cantabria",
+                "Codigo": "06"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Septiembre",
+                "Codigo": "septiembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 41.78
+            }
+        ]
+    },
+    {
+        "Nombre": "Cantabria, Octubre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Cantabria",
+                "Codigo": "06"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Octubre",
+                "Codigo": "octubre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 17.72
+            }
+        ]
+    },
+    {
+        "Nombre": "Cantabria, Noviembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Cantabria",
+                "Codigo": "06"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Noviembre",
+                "Codigo": "noviembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 4.01
+            }
+        ]
+    },
+    {
+        "Nombre": "Cantabria, Diciembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Cantabria",
+                "Codigo": "06"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Diciembre",
+                "Codigo": "diciembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 3.4
+            }
+        ]
+    },
+    {
+        "Nombre": "Castilla y León, Total",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Castilla y León",
+                "Codigo": "07"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Total",
+                "Codigo": "total"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 20.32
+            }
+        ]
+    },
+    {
+        "Nombre": "Castilla y León, Enero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Castilla y León",
+                "Codigo": "07"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Enero",
+                "Codigo": "enero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 17.39
+            }
+        ]
+    },
+    {
+        "Nombre": "Castilla y León, Febrero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Castilla y León",
+                "Codigo": "07"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Febrero",
+                "Codigo": "febrero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 25.16
+            }
+        ]
+    },
+    {
+        "Nombre": "Castilla y León, Marzo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Castilla y León",
+                "Codigo": "07"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Marzo",
+                "Codigo": "marzo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 10.55
+            }
+        ]
+    },
+    {
+        "Nombre": "Castilla y León, Abril",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Castilla y León",
+                "Codigo": "07"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Abril",
+                "Codigo": "abril"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Castilla y León, Mayo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Castilla y León",
+                "Codigo": "07"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Mayo",
+                "Codigo": "mayo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 6.23
+            }
+        ]
+    },
+    {
+        "Nombre": "Castilla y León, Junio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Castilla y León",
+                "Codigo": "07"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Junio",
+                "Codigo": "junio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 9.12
+            }
+        ]
+    },
+    {
+        "Nombre": "Castilla y León, Julio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Castilla y León",
+                "Codigo": "07"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Julio",
+                "Codigo": "julio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 34.76
+            }
+        ]
+    },
+    {
+        "Nombre": "Castilla y León, Agosto",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Castilla y León",
+                "Codigo": "07"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Agosto",
+                "Codigo": "agosto"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 39.69
+            }
+        ]
+    },
+    {
+        "Nombre": "Castilla y León, Septiembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Castilla y León",
+                "Codigo": "07"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Septiembre",
+                "Codigo": "septiembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 21.79
+            }
+        ]
+    },
+    {
+        "Nombre": "Castilla y León, Octubre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Castilla y León",
+                "Codigo": "07"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Octubre",
+                "Codigo": "octubre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 15.96
+            }
+        ]
+    },
+    {
+        "Nombre": "Castilla y León, Noviembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Castilla y León",
+                "Codigo": "07"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Noviembre",
+                "Codigo": "noviembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 7.04
+            }
+        ]
+    },
+    {
+        "Nombre": "Castilla y León, Diciembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Castilla y León",
+                "Codigo": "07"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Diciembre",
+                "Codigo": "diciembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 7.74
+            }
+        ]
+    },
+    {
+        "Nombre": "Castilla - La Mancha, Total",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Castilla - La Mancha",
+                "Codigo": "08"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Total",
+                "Codigo": "total"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 22.81
+            }
+        ]
+    },
+    {
+        "Nombre": "Castilla - La Mancha, Enero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Castilla - La Mancha",
+                "Codigo": "08"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Enero",
+                "Codigo": "enero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 17.67
+            }
+        ]
+    },
+    {
+        "Nombre": "Castilla - La Mancha, Febrero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Castilla - La Mancha",
+                "Codigo": "08"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Febrero",
+                "Codigo": "febrero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 25.25
+            }
+        ]
+    },
+    {
+        "Nombre": "Castilla - La Mancha, Marzo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Castilla - La Mancha",
+                "Codigo": "08"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Marzo",
+                "Codigo": "marzo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 18.16
+            }
+        ]
+    },
+    {
+        "Nombre": "Castilla - La Mancha, Abril",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Castilla - La Mancha",
+                "Codigo": "08"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Abril",
+                "Codigo": "abril"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Castilla - La Mancha, Mayo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Castilla - La Mancha",
+                "Codigo": "08"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Mayo",
+                "Codigo": "mayo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 5.57
+            }
+        ]
+    },
+    {
+        "Nombre": "Castilla - La Mancha, Junio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Castilla - La Mancha",
+                "Codigo": "08"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Junio",
+                "Codigo": "junio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 18.62
+            }
+        ]
+    },
+    {
+        "Nombre": "Castilla - La Mancha, Julio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Castilla - La Mancha",
+                "Codigo": "08"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Julio",
+                "Codigo": "julio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 37.53
+            }
+        ]
+    },
+    {
+        "Nombre": "Castilla - La Mancha, Agosto",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Castilla - La Mancha",
+                "Codigo": "08"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Agosto",
+                "Codigo": "agosto"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 41.42
+            }
+        ]
+    },
+    {
+        "Nombre": "Castilla - La Mancha, Septiembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Castilla - La Mancha",
+                "Codigo": "08"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Septiembre",
+                "Codigo": "septiembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 22.78
+            }
+        ]
+    },
+    {
+        "Nombre": "Castilla - La Mancha, Octubre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Castilla - La Mancha",
+                "Codigo": "08"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Octubre",
+                "Codigo": "octubre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 22.6
+            }
+        ]
+    },
+    {
+        "Nombre": "Castilla - La Mancha, Noviembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Castilla - La Mancha",
+                "Codigo": "08"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Noviembre",
+                "Codigo": "noviembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 10.55
+            }
+        ]
+    },
+    {
+        "Nombre": "Castilla - La Mancha, Diciembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Castilla - La Mancha",
+                "Codigo": "08"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Diciembre",
+                "Codigo": "diciembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 10.43
+            }
+        ]
+    },
+    {
+        "Nombre": "Cataluña, Total",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Cataluña",
+                "Codigo": "09"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Total",
+                "Codigo": "total"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 23.4
+            }
+        ]
+    },
+    {
+        "Nombre": "Cataluña, Enero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Cataluña",
+                "Codigo": "09"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Enero",
+                "Codigo": "enero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 26.59
+            }
+        ]
+    },
+    {
+        "Nombre": "Cataluña, Febrero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Cataluña",
+                "Codigo": "09"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Febrero",
+                "Codigo": "febrero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 30.36
+            }
+        ]
+    },
+    {
+        "Nombre": "Cataluña, Marzo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Cataluña",
+                "Codigo": "09"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Marzo",
+                "Codigo": "marzo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 21.96
+            }
+        ]
+    },
+    {
+        "Nombre": "Cataluña, Abril",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Cataluña",
+                "Codigo": "09"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Abril",
+                "Codigo": "abril"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Cataluña, Mayo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Cataluña",
+                "Codigo": "09"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Mayo",
+                "Codigo": "mayo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 1.34
+            }
+        ]
+    },
+    {
+        "Nombre": "Cataluña, Junio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Cataluña",
+                "Codigo": "09"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Junio",
+                "Codigo": "junio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 7.79
+            }
+        ]
+    },
+    {
+        "Nombre": "Cataluña, Julio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Cataluña",
+                "Codigo": "09"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Julio",
+                "Codigo": "julio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 24.51
+            }
+        ]
+    },
+    {
+        "Nombre": "Cataluña, Agosto",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Cataluña",
+                "Codigo": "09"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Agosto",
+                "Codigo": "agosto"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 40.66
+            }
+        ]
+    },
+    {
+        "Nombre": "Cataluña, Septiembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Cataluña",
+                "Codigo": "09"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Septiembre",
+                "Codigo": "septiembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 19.93
+            }
+        ]
+    },
+    {
+        "Nombre": "Cataluña, Octubre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Cataluña",
+                "Codigo": "09"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Octubre",
+                "Codigo": "octubre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 15.25
+            }
+        ]
+    },
+    {
+        "Nombre": "Cataluña, Noviembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Cataluña",
+                "Codigo": "09"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Noviembre",
+                "Codigo": "noviembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 19.19
+            }
+        ]
+    },
+    {
+        "Nombre": "Cataluña, Diciembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Cataluña",
+                "Codigo": "09"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Diciembre",
+                "Codigo": "diciembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 19.19
+            }
+        ]
+    },
+    {
+        "Nombre": "Comunitat Valenciana, Total",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Comunitat Valenciana",
+                "Codigo": "10"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Total",
+                "Codigo": "total"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 13.46
+            }
+        ]
+    },
+    {
+        "Nombre": "Comunitat Valenciana, Enero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Comunitat Valenciana",
+                "Codigo": "10"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Enero",
+                "Codigo": "enero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 12.59
+            }
+        ]
+    },
+    {
+        "Nombre": "Comunitat Valenciana, Febrero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Comunitat Valenciana",
+                "Codigo": "10"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Febrero",
+                "Codigo": "febrero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 14.73
+            }
+        ]
+    },
+    {
+        "Nombre": "Comunitat Valenciana, Marzo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Comunitat Valenciana",
+                "Codigo": "10"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Marzo",
+                "Codigo": "marzo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 9.96
+            }
+        ]
+    },
+    {
+        "Nombre": "Comunitat Valenciana, Abril",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Comunitat Valenciana",
+                "Codigo": "10"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Abril",
+                "Codigo": "abril"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Comunitat Valenciana, Mayo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Comunitat Valenciana",
+                "Codigo": "10"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Mayo",
+                "Codigo": "mayo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 4.93
+            }
+        ]
+    },
+    {
+        "Nombre": "Comunitat Valenciana, Junio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Comunitat Valenciana",
+                "Codigo": "10"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Junio",
+                "Codigo": "junio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 5.01
+            }
+        ]
+    },
+    {
+        "Nombre": "Comunitat Valenciana, Julio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Comunitat Valenciana",
+                "Codigo": "10"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Julio",
+                "Codigo": "julio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 19.76
+            }
+        ]
+    },
+    {
+        "Nombre": "Comunitat Valenciana, Agosto",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Comunitat Valenciana",
+                "Codigo": "10"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Agosto",
+                "Codigo": "agosto"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 30.83
+            }
+        ]
+    },
+    {
+        "Nombre": "Comunitat Valenciana, Septiembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Comunitat Valenciana",
+                "Codigo": "10"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Septiembre",
+                "Codigo": "septiembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 10.97
+            }
+        ]
+    },
+    {
+        "Nombre": "Comunitat Valenciana, Octubre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Comunitat Valenciana",
+                "Codigo": "10"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Octubre",
+                "Codigo": "octubre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 7.62
+            }
+        ]
+    },
+    {
+        "Nombre": "Comunitat Valenciana, Noviembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Comunitat Valenciana",
+                "Codigo": "10"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Noviembre",
+                "Codigo": "noviembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 4.64
+            }
+        ]
+    },
+    {
+        "Nombre": "Comunitat Valenciana, Diciembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Comunitat Valenciana",
+                "Codigo": "10"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Diciembre",
+                "Codigo": "diciembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 4.46
+            }
+        ]
+    },
+    {
+        "Nombre": "Extremadura, Total",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Extremadura",
+                "Codigo": "11"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Total",
+                "Codigo": "total"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 19.67
+            }
+        ]
+    },
+    {
+        "Nombre": "Extremadura, Enero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Extremadura",
+                "Codigo": "11"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Enero",
+                "Codigo": "enero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 17.57
+            }
+        ]
+    },
+    {
+        "Nombre": "Extremadura, Febrero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Extremadura",
+                "Codigo": "11"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Febrero",
+                "Codigo": "febrero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 27.63
+            }
+        ]
+    },
+    {
+        "Nombre": "Extremadura, Marzo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Extremadura",
+                "Codigo": "11"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Marzo",
+                "Codigo": "marzo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 12.1
+            }
+        ]
+    },
+    {
+        "Nombre": "Extremadura, Abril",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Extremadura",
+                "Codigo": "11"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Abril",
+                "Codigo": "abril"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Extremadura, Mayo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Extremadura",
+                "Codigo": "11"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Mayo",
+                "Codigo": "mayo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 1.12
+            }
+        ]
+    },
+    {
+        "Nombre": "Extremadura, Junio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Extremadura",
+                "Codigo": "11"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Junio",
+                "Codigo": "junio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 9.97
+            }
+        ]
+    },
+    {
+        "Nombre": "Extremadura, Julio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Extremadura",
+                "Codigo": "11"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Julio",
+                "Codigo": "julio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 28.52
+            }
+        ]
+    },
+    {
+        "Nombre": "Extremadura, Agosto",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Extremadura",
+                "Codigo": "11"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Agosto",
+                "Codigo": "agosto"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 36.29
+            }
+        ]
+    },
+    {
+        "Nombre": "Extremadura, Septiembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Extremadura",
+                "Codigo": "11"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Septiembre",
+                "Codigo": "septiembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 19.02
+            }
+        ]
+    },
+    {
+        "Nombre": "Extremadura, Octubre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Extremadura",
+                "Codigo": "11"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Octubre",
+                "Codigo": "octubre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 17.99
+            }
+        ]
+    },
+    {
+        "Nombre": "Extremadura, Noviembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Extremadura",
+                "Codigo": "11"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Noviembre",
+                "Codigo": "noviembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 11.01
+            }
+        ]
+    },
+    {
+        "Nombre": "Extremadura, Diciembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Extremadura",
+                "Codigo": "11"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Diciembre",
+                "Codigo": "diciembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 12.43
+            }
+        ]
+    },
+    {
+        "Nombre": "Galicia, Total",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Galicia",
+                "Codigo": "12"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Total",
+                "Codigo": "total"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 26.52
+            }
+        ]
+    },
+    {
+        "Nombre": "Galicia, Enero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Galicia",
+                "Codigo": "12"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Enero",
+                "Codigo": "enero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 17.43
+            }
+        ]
+    },
+    {
+        "Nombre": "Galicia, Febrero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Galicia",
+                "Codigo": "12"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Febrero",
+                "Codigo": "febrero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 22.85
+            }
+        ]
+    },
+    {
+        "Nombre": "Galicia, Marzo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Galicia",
+                "Codigo": "12"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Marzo",
+                "Codigo": "marzo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 15.93
+            }
+        ]
+    },
+    {
+        "Nombre": "Galicia, Abril",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Galicia",
+                "Codigo": "12"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Abril",
+                "Codigo": "abril"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Galicia, Mayo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Galicia",
+                "Codigo": "12"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Mayo",
+                "Codigo": "mayo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 14.06
+            }
+        ]
+    },
+    {
+        "Nombre": "Galicia, Junio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Galicia",
+                "Codigo": "12"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Junio",
+                "Codigo": "junio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 20.96
+            }
+        ]
+    },
+    {
+        "Nombre": "Galicia, Julio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Galicia",
+                "Codigo": "12"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Julio",
+                "Codigo": "julio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 37.57
+            }
+        ]
+    },
+    {
+        "Nombre": "Galicia, Agosto",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Galicia",
+                "Codigo": "12"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Agosto",
+                "Codigo": "agosto"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 48.44
+            }
+        ]
+    },
+    {
+        "Nombre": "Galicia, Septiembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Galicia",
+                "Codigo": "12"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Septiembre",
+                "Codigo": "septiembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 26.68
+            }
+        ]
+    },
+    {
+        "Nombre": "Galicia, Octubre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Galicia",
+                "Codigo": "12"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Octubre",
+                "Codigo": "octubre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 15.27
+            }
+        ]
+    },
+    {
+        "Nombre": "Galicia, Noviembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Galicia",
+                "Codigo": "12"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Noviembre",
+                "Codigo": "noviembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 11.65
+            }
+        ]
+    },
+    {
+        "Nombre": "Galicia, Diciembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Galicia",
+                "Codigo": "12"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Diciembre",
+                "Codigo": "diciembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 13.77
+            }
+        ]
+    },
+    {
+        "Nombre": "Madrid, Comunidad de, Total",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Madrid, Comunidad de",
+                "Codigo": "13"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Total",
+                "Codigo": "total"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 32.74
+            }
+        ]
+    },
+    {
+        "Nombre": "Madrid, Comunidad de, Enero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Madrid, Comunidad de",
+                "Codigo": "13"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Enero",
+                "Codigo": "enero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 51.71
+            }
+        ]
+    },
+    {
+        "Nombre": "Madrid, Comunidad de, Febrero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Madrid, Comunidad de",
+                "Codigo": "13"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Febrero",
+                "Codigo": "febrero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 55.97
+            }
+        ]
+    },
+    {
+        "Nombre": "Madrid, Comunidad de, Marzo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Madrid, Comunidad de",
+                "Codigo": "13"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Marzo",
+                "Codigo": "marzo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 45.63
+            }
+        ]
+    },
+    {
+        "Nombre": "Madrid, Comunidad de, Abril",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Madrid, Comunidad de",
+                "Codigo": "13"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Abril",
+                "Codigo": "abril"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Madrid, Comunidad de, Mayo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Madrid, Comunidad de",
+                "Codigo": "13"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Mayo",
+                "Codigo": "mayo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 20.23
+            }
+        ]
+    },
+    {
+        "Nombre": "Madrid, Comunidad de, Junio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Madrid, Comunidad de",
+                "Codigo": "13"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Junio",
+                "Codigo": "junio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 23.42
+            }
+        ]
+    },
+    {
+        "Nombre": "Madrid, Comunidad de, Julio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Madrid, Comunidad de",
+                "Codigo": "13"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Julio",
+                "Codigo": "julio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 24.34
+            }
+        ]
+    },
+    {
+        "Nombre": "Madrid, Comunidad de, Agosto",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Madrid, Comunidad de",
+                "Codigo": "13"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Agosto",
+                "Codigo": "agosto"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 24.43
+            }
+        ]
+    },
+    {
+        "Nombre": "Madrid, Comunidad de, Septiembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Madrid, Comunidad de",
+                "Codigo": "13"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Septiembre",
+                "Codigo": "septiembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 25.65
+            }
+        ]
+    },
+    {
+        "Nombre": "Madrid, Comunidad de, Octubre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Madrid, Comunidad de",
+                "Codigo": "13"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Octubre",
+                "Codigo": "octubre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 21.37
+            }
+        ]
+    },
+    {
+        "Nombre": "Madrid, Comunidad de, Noviembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Madrid, Comunidad de",
+                "Codigo": "13"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Noviembre",
+                "Codigo": "noviembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 22.84
+            }
+        ]
+    },
+    {
+        "Nombre": "Madrid, Comunidad de, Diciembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Madrid, Comunidad de",
+                "Codigo": "13"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Diciembre",
+                "Codigo": "diciembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 30.35
+            }
+        ]
+    },
+    {
+        "Nombre": "Murcia, Región de, Total",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Murcia, Región de",
+                "Codigo": "14"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Total",
+                "Codigo": "total"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 15.7
+            }
+        ]
+    },
+    {
+        "Nombre": "Murcia, Región de, Enero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Murcia, Región de",
+                "Codigo": "14"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Enero",
+                "Codigo": "enero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 12.49
+            }
+        ]
+    },
+    {
+        "Nombre": "Murcia, Región de, Febrero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Murcia, Región de",
+                "Codigo": "14"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Febrero",
+                "Codigo": "febrero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 15.65
+            }
+        ]
+    },
+    {
+        "Nombre": "Murcia, Región de, Marzo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Murcia, Región de",
+                "Codigo": "14"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Marzo",
+                "Codigo": "marzo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 13.71
+            }
+        ]
+    },
+    {
+        "Nombre": "Murcia, Región de, Abril",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Murcia, Región de",
+                "Codigo": "14"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Abril",
+                "Codigo": "abril"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Murcia, Región de, Mayo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Murcia, Región de",
+                "Codigo": "14"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Mayo",
+                "Codigo": "mayo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 8.9
+            }
+        ]
+    },
+    {
+        "Nombre": "Murcia, Región de, Junio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Murcia, Región de",
+                "Codigo": "14"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Junio",
+                "Codigo": "junio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 8.14
+            }
+        ]
+    },
+    {
+        "Nombre": "Murcia, Región de, Julio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Murcia, Región de",
+                "Codigo": "14"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Julio",
+                "Codigo": "julio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 23.88
+            }
+        ]
+    },
+    {
+        "Nombre": "Murcia, Región de, Agosto",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Murcia, Región de",
+                "Codigo": "14"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Agosto",
+                "Codigo": "agosto"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 35.75
+            }
+        ]
+    },
+    {
+        "Nombre": "Murcia, Región de, Septiembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Murcia, Región de",
+                "Codigo": "14"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Septiembre",
+                "Codigo": "septiembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 13.43
+            }
+        ]
+    },
+    {
+        "Nombre": "Murcia, Región de, Octubre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Murcia, Región de",
+                "Codigo": "14"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Octubre",
+                "Codigo": "octubre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 8.75
+            }
+        ]
+    },
+    {
+        "Nombre": "Murcia, Región de, Noviembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Murcia, Región de",
+                "Codigo": "14"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Noviembre",
+                "Codigo": "noviembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 7.63
+            }
+        ]
+    },
+    {
+        "Nombre": "Murcia, Región de, Diciembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Murcia, Región de",
+                "Codigo": "14"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Diciembre",
+                "Codigo": "diciembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 7.02
+            }
+        ]
+    },
+    {
+        "Nombre": "Navarra, Comunidad Foral de, Total",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Navarra, Comunidad Foral de",
+                "Codigo": "15"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Total",
+                "Codigo": "total"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 26.31
+            }
+        ]
+    },
+    {
+        "Nombre": "Navarra, Comunidad Foral de, Enero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Navarra, Comunidad Foral de",
+                "Codigo": "15"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Enero",
+                "Codigo": "enero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 29.84
+            }
+        ]
+    },
+    {
+        "Nombre": "Navarra, Comunidad Foral de, Febrero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Navarra, Comunidad Foral de",
+                "Codigo": "15"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Febrero",
+                "Codigo": "febrero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 36.19
+            }
+        ]
+    },
+    {
+        "Nombre": "Navarra, Comunidad Foral de, Marzo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Navarra, Comunidad Foral de",
+                "Codigo": "15"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Marzo",
+                "Codigo": "marzo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 19.38
+            }
+        ]
+    },
+    {
+        "Nombre": "Navarra, Comunidad Foral de, Abril",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Navarra, Comunidad Foral de",
+                "Codigo": "15"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Abril",
+                "Codigo": "abril"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Navarra, Comunidad Foral de, Mayo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Navarra, Comunidad Foral de",
+                "Codigo": "15"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Mayo",
+                "Codigo": "mayo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 12.28
+            }
+        ]
+    },
+    {
+        "Nombre": "Navarra, Comunidad Foral de, Junio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Navarra, Comunidad Foral de",
+                "Codigo": "15"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Junio",
+                "Codigo": "junio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 20.3
+            }
+        ]
+    },
+    {
+        "Nombre": "Navarra, Comunidad Foral de, Julio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Navarra, Comunidad Foral de",
+                "Codigo": "15"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Julio",
+                "Codigo": "julio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 32.14
+            }
+        ]
+    },
+    {
+        "Nombre": "Navarra, Comunidad Foral de, Agosto",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Navarra, Comunidad Foral de",
+                "Codigo": "15"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Agosto",
+                "Codigo": "agosto"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 41.23
+            }
+        ]
+    },
+    {
+        "Nombre": "Navarra, Comunidad Foral de, Septiembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Navarra, Comunidad Foral de",
+                "Codigo": "15"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Septiembre",
+                "Codigo": "septiembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 24.95
+            }
+        ]
+    },
+    {
+        "Nombre": "Navarra, Comunidad Foral de, Octubre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Navarra, Comunidad Foral de",
+                "Codigo": "15"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Octubre",
+                "Codigo": "octubre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 22.8
+            }
+        ]
+    },
+    {
+        "Nombre": "Navarra, Comunidad Foral de, Noviembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Navarra, Comunidad Foral de",
+                "Codigo": "15"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Noviembre",
+                "Codigo": "noviembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 14.58
+            }
+        ]
+    },
+    {
+        "Nombre": "Navarra, Comunidad Foral de, Diciembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Navarra, Comunidad Foral de",
+                "Codigo": "15"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Diciembre",
+                "Codigo": "diciembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 17.33
+            }
+        ]
+    },
+    {
+        "Nombre": "País Vasco, Total",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "País Vasco",
+                "Codigo": "16"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Total",
+                "Codigo": "total"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 22.74
+            }
+        ]
+    },
+    {
+        "Nombre": "País Vasco, Enero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "País Vasco",
+                "Codigo": "16"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Enero",
+                "Codigo": "enero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 23.41
+            }
+        ]
+    },
+    {
+        "Nombre": "País Vasco, Febrero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "País Vasco",
+                "Codigo": "16"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Febrero",
+                "Codigo": "febrero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 28.97
+            }
+        ]
+    },
+    {
+        "Nombre": "País Vasco, Marzo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "País Vasco",
+                "Codigo": "16"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Marzo",
+                "Codigo": "marzo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 20.52
+            }
+        ]
+    },
+    {
+        "Nombre": "País Vasco, Abril",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "País Vasco",
+                "Codigo": "16"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Abril",
+                "Codigo": "abril"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "País Vasco, Mayo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "País Vasco",
+                "Codigo": "16"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Mayo",
+                "Codigo": "mayo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 11.89
+            }
+        ]
+    },
+    {
+        "Nombre": "País Vasco, Junio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "País Vasco",
+                "Codigo": "16"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Junio",
+                "Codigo": "junio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 14.29
+            }
+        ]
+    },
+    {
+        "Nombre": "País Vasco, Julio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "País Vasco",
+                "Codigo": "16"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Julio",
+                "Codigo": "julio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 31.54
+            }
+        ]
+    },
+    {
+        "Nombre": "País Vasco, Agosto",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "País Vasco",
+                "Codigo": "16"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Agosto",
+                "Codigo": "agosto"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 41.16
+            }
+        ]
+    },
+    {
+        "Nombre": "País Vasco, Septiembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "País Vasco",
+                "Codigo": "16"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Septiembre",
+                "Codigo": "septiembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 25.87
+            }
+        ]
+    },
+    {
+        "Nombre": "País Vasco, Octubre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "País Vasco",
+                "Codigo": "16"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Octubre",
+                "Codigo": "octubre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 20.4
+            }
+        ]
+    },
+    {
+        "Nombre": "País Vasco, Noviembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "País Vasco",
+                "Codigo": "16"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Noviembre",
+                "Codigo": "noviembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 12.37
+            }
+        ]
+    },
+    {
+        "Nombre": "País Vasco, Diciembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "País Vasco",
+                "Codigo": "16"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Diciembre",
+                "Codigo": "diciembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 12.6
+            }
+        ]
+    },
+    {
+        "Nombre": "Rioja, La, Total",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Rioja, La",
+                "Codigo": "17"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Total",
+                "Codigo": "total"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 16.13
+            }
+        ]
+    },
+    {
+        "Nombre": "Rioja, La, Enero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Rioja, La",
+                "Codigo": "17"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Enero",
+                "Codigo": "enero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 16.43
+            }
+        ]
+    },
+    {
+        "Nombre": "Rioja, La, Febrero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Rioja, La",
+                "Codigo": "17"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Febrero",
+                "Codigo": "febrero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 25.01
+            }
+        ]
+    },
+    {
+        "Nombre": "Rioja, La, Marzo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Rioja, La",
+                "Codigo": "17"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Marzo",
+                "Codigo": "marzo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 8.76
+            }
+        ]
+    },
+    {
+        "Nombre": "Rioja, La, Abril",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Rioja, La",
+                "Codigo": "17"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Abril",
+                "Codigo": "abril"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Rioja, La, Mayo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Rioja, La",
+                "Codigo": "17"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Mayo",
+                "Codigo": "mayo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 1.16
+            }
+        ]
+    },
+    {
+        "Nombre": "Rioja, La, Junio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Rioja, La",
+                "Codigo": "17"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Junio",
+                "Codigo": "junio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 7.01
+            }
+        ]
+    },
+    {
+        "Nombre": "Rioja, La, Julio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Rioja, La",
+                "Codigo": "17"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Julio",
+                "Codigo": "julio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 22.08
+            }
+        ]
+    },
+    {
+        "Nombre": "Rioja, La, Agosto",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Rioja, La",
+                "Codigo": "17"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Agosto",
+                "Codigo": "agosto"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 32.28
+            }
+        ]
+    },
+    {
+        "Nombre": "Rioja, La, Septiembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Rioja, La",
+                "Codigo": "17"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Septiembre",
+                "Codigo": "septiembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 17.93
+            }
+        ]
+    },
+    {
+        "Nombre": "Rioja, La, Octubre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Rioja, La",
+                "Codigo": "17"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Octubre",
+                "Codigo": "octubre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 13.93
+            }
+        ]
+    },
+    {
+        "Nombre": "Rioja, La, Noviembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Rioja, La",
+                "Codigo": "17"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Noviembre",
+                "Codigo": "noviembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 2.39
+            }
+        ]
+    },
+    {
+        "Nombre": "Rioja, La, Diciembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Rioja, La",
+                "Codigo": "17"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Diciembre",
+                "Codigo": "diciembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 4.88
+            }
+        ]
+    },
+    {
+        "Nombre": "Ceuta, Total",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Ceuta",
+                "Codigo": "18"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Total",
+                "Codigo": "total"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Ceuta, Enero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Ceuta",
+                "Codigo": "18"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Enero",
+                "Codigo": "enero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Ceuta, Febrero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Ceuta",
+                "Codigo": "18"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Febrero",
+                "Codigo": "febrero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Ceuta, Marzo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Ceuta",
+                "Codigo": "18"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Marzo",
+                "Codigo": "marzo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Ceuta, Abril",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Ceuta",
+                "Codigo": "18"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Abril",
+                "Codigo": "abril"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Ceuta, Mayo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Ceuta",
+                "Codigo": "18"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Mayo",
+                "Codigo": "mayo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Ceuta, Junio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Ceuta",
+                "Codigo": "18"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Junio",
+                "Codigo": "junio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Ceuta, Julio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Ceuta",
+                "Codigo": "18"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Julio",
+                "Codigo": "julio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Ceuta, Agosto",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Ceuta",
+                "Codigo": "18"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Agosto",
+                "Codigo": "agosto"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Ceuta, Septiembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Ceuta",
+                "Codigo": "18"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Septiembre",
+                "Codigo": "septiembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Ceuta, Octubre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Ceuta",
+                "Codigo": "18"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Octubre",
+                "Codigo": "octubre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Ceuta, Noviembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Ceuta",
+                "Codigo": "18"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Noviembre",
+                "Codigo": "noviembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Ceuta, Diciembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Ceuta",
+                "Codigo": "18"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Diciembre",
+                "Codigo": "diciembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Melilla, Total",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Melilla",
+                "Codigo": "19"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Total",
+                "Codigo": "total"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Melilla, Enero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Melilla",
+                "Codigo": "19"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Enero",
+                "Codigo": "enero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Melilla, Febrero",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Melilla",
+                "Codigo": "19"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Febrero",
+                "Codigo": "febrero"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Melilla, Marzo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Melilla",
+                "Codigo": "19"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Marzo",
+                "Codigo": "marzo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Melilla, Abril",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Melilla",
+                "Codigo": "19"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Abril",
+                "Codigo": "abril"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Melilla, Mayo",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Melilla",
+                "Codigo": "19"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Mayo",
+                "Codigo": "mayo"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Melilla, Junio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Melilla",
+                "Codigo": "19"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Junio",
+                "Codigo": "junio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Melilla, Julio",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Melilla",
+                "Codigo": "19"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Julio",
+                "Codigo": "julio"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Melilla, Agosto",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Melilla",
+                "Codigo": "19"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Agosto",
+                "Codigo": "agosto"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Melilla, Septiembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Melilla",
+                "Codigo": "19"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Septiembre",
+                "Codigo": "septiembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Melilla, Octubre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Melilla",
+                "Codigo": "19"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Octubre",
+                "Codigo": "octubre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Melilla, Noviembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Melilla",
+                "Codigo": "19"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Noviembre",
+                "Codigo": "noviembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Melilla, Diciembre",
+        "MetaData": [
+            {
+                "Variable": {
+                    "Id": 70,
+                    "Nombre": "Comunidades y Ciudades Autónomas",
+                    "Codigo": "CCAA"
+                },
+                "Nombre": "Melilla",
+                "Codigo": "19"
+            },
+            {
+                "Variable": {
+                    "Nombre": "meses",
+                    "Codigo": "meses"
+                },
+                "Nombre": "Diciembre",
+                "Codigo": "diciembre"
+            }
+        ],
+        "Data": [
+            {
+                "Valor": 0.0
+            }
+        ]
+    }
+]
