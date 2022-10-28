@@ -20,6 +20,9 @@ router.delete('/:id', viviendas.delete);
 // Retrieve all reservas from a vivienda
 router.get('/:id/reservas', viviendas.findReservas);
 
+// Retrieve all viviendas with estado. Angel FC
+router.get('/estado/:estado', viviendas.findByEstado);
+
 // Retrieve all viviendas under a price. Galo
 router.get('/precio/:precio', viviendas.findUnderPrice);
 
