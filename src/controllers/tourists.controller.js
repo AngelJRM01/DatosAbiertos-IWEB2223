@@ -11,16 +11,16 @@ exports.findByComunidadAutonoma = (req, res) => {
     var date = new Date();
     const { comunidadAutonoma, mes } = req.params;
     
-    /*const tourists = Tourists.filter( t => t.MetaData.map(item => item.Id).includes(16420) && t.MetaData.map(item => item.Id).includes(291971)
-        && t.MetaData.map(item => item.Nombre).includes(comunidadAutonoma))[0].Data.filter( d => d.Anyo == (date.getFullYear() - 1).toString() && d.T3_Periodo === mes)[0].Valor;*/
+    const tourists = Tourists.filter( t => t.MetaData.map(item => item.Id).includes(16420) && t.MetaData.map(item => item.Id).includes(291971)
+        && t.MetaData.map(item => item.Nombre).includes(comunidadAutonoma))[0].Data.filter( d => d.Anyo == (date.getFullYear() - 1).toString() && d.T3_Periodo === mes)[0].Valor;
     
-    var filterByTourists = function(tourist) { return tourist.MetaData[0].Nombre == "Turistas" };
+    /*var filterByTourists = function(tourist) { return tourist.MetaData[0].Nombre == "Turistas" };
     var filterByComunidadAutonoma = function(tourist) { return tourist.MetaData[3].Nombre == comunidadAutonoma };
     var filterByTotal = function(tourist) { return tourist.MetaData[1].Nombre == "Total" };
     var filterByFecha = function(month) { return month.T3_Periodo == mes && month.Anyo == (date.getFullYear() - 1) };
     
     const tourists = Tourists.filter(filterByTourists).filter(filterByComunidadAutonoma).filter(filterByTotal)[0]
-                        .Data.filter(filterByFecha);
+                        .Data.filter(filterByFecha);*/
 
     res.json(tourists);
 }
