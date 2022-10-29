@@ -13,4 +13,8 @@ router.get('/:comunidadAutonoma/:mes', tourists.findByComunidadAutonoma);
 // mes: M01 -> January, M02 -> February, ... , M12 -> December
 router.get('/duration/:origen/:comunidadAutonoma/:mes', tourists.findTripDuration);
 
+// Retrieve months with the most and the lowest number of tourists of a region last year
+// mes: M01 -> January, M02 -> February, ... , M12 -> December
+router.get('/peak/:comunidadAutonoma', tourists.findPeak);
+
 module.exports = router;
