@@ -14,9 +14,7 @@ app.use('/tourists', touristsRoutes);
 app.set('port', process.env.port || 5000);
 
 app.listen(app.get('port'), () => {
-    console.log('Server on port 5000');
-
-    
+    console.log('Server on port 5000');    
 })
 
 const targetFile = '.\\src\\data\\'  
