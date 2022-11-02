@@ -1,4 +1,3 @@
-require('./database');
 const Downloader = require("nodejs-file-downloader");
 
 const express = require("express");
@@ -12,10 +11,10 @@ app.use('/gas', gasRoutes);
 app.use('/tourists', touristsRoutes);
 
 
-app.set('port', process.env.port || 4000);
+app.set('port', process.env.port || 5000);
 
 app.listen(app.get('port'), () => {
-    console.log('Server on port 4000');
+    console.log('Server on port 5000');
 
     
 })
