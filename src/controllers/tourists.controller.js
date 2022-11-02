@@ -20,7 +20,7 @@ exports.findByComunidadAutonoma = (req, res) => {
     var filterByFecha = function(month) { return month.T3_Periodo == mes && month.Anyo == (date.getFullYear() - 1) };
     
     const tourists = Tourists.filter(filterByTourists).filter(filterByComunidadAutonoma).filter(filterByTotal)[0]
-                        .Data.filter(filterByFecha);*/
+                        .Data.filter(filterByFecha)[0].Valor;*/
 
     res.json(tourists);
 }
