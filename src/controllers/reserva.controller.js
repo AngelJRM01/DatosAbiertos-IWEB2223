@@ -140,10 +140,10 @@ exports.findVivienda = (req, res) => {
     Reserva.findById(id)
         .then(data => {
             if (!data)
-                res.status(404).send({ message: "Not found Reserva with id " + id });
+                res.status(404).send({ message: "Not found Vivienda in Reserva with id=" + id });
             else res.json(data.vivienda);
         })
         .catch(err => {
-            res.status(500).send({ message: "Error retrieving Reserva with id=" + id });
+            res.status(500).send({ message: "Error retrieving Vivienda from Reserva with id=" + id });
         });
 }
