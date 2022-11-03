@@ -7,24 +7,29 @@
 	},
 	"item": [
 		{
-			"name": "/tourists/peak/{comunidadAutonoma}",
+			"name": "/tourists/number/{comunidadAutonoma}/{mes}",
 			"request": {
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "{{base:url}}/tourists/peak/:comunidadAutonoma",
+					"raw": "{{base:url}}/tourists/number/:comunidadAutonoma/:mes",
 					"host": [
 						"{{base:url}}"
 					],
 					"path": [
 						"tourists",
-						"peak",
-						":comunidadAutonoma"
+						"number",
+						":comunidadAutonoma",
+						":mes"
 					],
 					"variable": [
 						{
 							"key": "comunidadAutonoma",
 							"value": "Andalucía"
+						},
+						{
+							"key": "mes",
+							"value": "M12"
 						}
 					]
 				}
@@ -67,29 +72,24 @@
 			"response": []
 		},
 		{
-			"name": "/tourists/number/{comunidadAutonoma}/{mes}",
+			"name": "/tourists/peak/{comunidadAutonoma}",
 			"request": {
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "{{base:url}}/tourists/number/:comunidadAutonoma/:mes",
+					"raw": "{{base:url}}/tourists/peak/:comunidadAutonoma",
 					"host": [
 						"{{base:url}}"
 					],
 					"path": [
 						"tourists",
-						"number",
-						":comunidadAutonoma",
-						":mes"
+						"peak",
+						":comunidadAutonoma"
 					],
 					"variable": [
 						{
 							"key": "comunidadAutonoma",
 							"value": "Andalucía"
-						},
-						{
-							"key": "mes",
-							"value": "M12"
 						}
 					]
 				}
@@ -113,7 +113,7 @@
 					"variable": [
 						{
 							"key": "localidad",
-							"value": "ALBACETE"
+							"value": "Murcia"
 						}
 					]
 				}
@@ -142,7 +142,7 @@
 						},
 						{
 							"key": "localidad",
-							"value": "MALAGA"
+							"value": "Malaga"
 						}
 					]
 				}
@@ -203,15 +203,15 @@
 					"variable": [
 						{
 							"key": "latitud",
-							"value": "0"
+							"value": "27.805"
 						},
 						{
 							"key": "longitud",
-							"value": "0"
+							"value": "-15.474"
 						},
 						{
 							"key": "gradoAproximacion",
-							"value": "30.0"
+							"value": "0.1"
 						}
 					]
 				}

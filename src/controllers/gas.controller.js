@@ -10,7 +10,7 @@ exports.findAll = (req, res) => {
 
 exports.findByLocalidad = (req, res) => {
 
-    const localidad = req.params.localidad;
+    const localidad = req.params.localidad.toUpperCase();
     const gas = Gas.ListaEESSPrecio.filter( g => g.Localidad == localidad).map( g => {
         return {
             "Dirección": g.Dirección,
@@ -18,13 +18,13 @@ exports.findByLocalidad = (req, res) => {
             "Precio Gasolina 95 E5" : g["Precio Gasolina 95 E5"]
             };
     });
-    
+
     res.json(gas);
 }
 
 exports.findCheaperInLocalidad = (req, res) => {
-    
-    const localidad = req.params.localidad;
+
+    const localidad = req.params.localidad.toUpperCase();
 
     const tipoGasolina = "Precio " + req.params.tipoGasolina;
 
