@@ -2,8 +2,8 @@ const Downloader = require("nodejs-file-downloader");
 
 const express = require("express");
 const app = express();
-const gasRoutes = require('./routes/gas.routes');
-const touristsRoutes = require('./routes/tourists.routes');
+const gasRoutes = require('./src/routes/gas.routes');
+const touristsRoutes = require('./src/routes/tourists.routes');
 const cors = require('cors');
 app.use(cors());
 app.use(express.json());
